@@ -1,5 +1,5 @@
 # Formación en Ciberseguridad
-### Impact Include (Fundación GoodJob)
+### Programa Impact Include (Fundación GoodJob)
 
 **Alumno:** Carlos L.U.
 
