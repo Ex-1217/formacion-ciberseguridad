@@ -1,4 +1,4 @@
-# # Formación en Ciberseguridad — Impact Include (Fundación Good Job)
+# Formación en Ciberseguridad — Impact Include (Fundación Good Job)
 
 **Alumno:** CARLOS LÓPEZ URBANEJA  
 
