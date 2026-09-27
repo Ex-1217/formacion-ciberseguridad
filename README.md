@@ -1,6 +1,5 @@
 # Formación en Ciberseguridad
-
-![Programa](https://img.shields.io/badge/Programa-Impact%20Include%20%28Fundaci%C3%B3n%20GoodJob%29-3B6EA5)
+### Impact Include (Fundación GoodJob)
 
 **Alumno:** Carlos L.U.
 
