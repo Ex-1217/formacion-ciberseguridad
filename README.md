@@ -1,5 +1,7 @@
-# Formación en Ciberseguridad — Impact Include (Fundación Good Job)
+# Formación en Ciberseguridad
 
+**Programa:** Impact Include
+**Fundación:** GoodJob
 **Alumno:** CARLOS LÓPEZ URBANEJA  
 
 **Objetivo:** Guardar aquí mis prácticas y lo que voy aprendiendo en el curso.
