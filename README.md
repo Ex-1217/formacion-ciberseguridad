@@ -2,7 +2,7 @@
 
 **Programa:** Impact Include
 **Fundación:** GoodJob
-**Alumno:** CARLOS LÓPEZ URBANEJA  
+**Alumno:** CARLOS Carlos L.U.
 
 **Objetivo:** Guardar aquí mis prácticas y lo que voy aprendiendo en el curso.
 
